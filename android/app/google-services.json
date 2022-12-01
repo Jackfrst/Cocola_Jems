@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "426423521136",
+    "project_id": "cocola-jems",
+    "storage_bucket": "cocola-jems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426423521136:android:b8b5e65c23f8f9182a89b5",
+        "android_client_info": {
+          "package_name": "com.arml.cocola_jems_jwst.cocola_jems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426423521136-f92d67597lisq9kh7hh4n2jjqdev99u0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arml.cocola_jems_jwst.cocola_jems",
+            "certificate_hash": "bde116ee5b27a32d26f7891c8633216f0d71c24f"
+          }
+        },
+        {
+          "client_id": "426423521136-3fpaj6id666htumc9t5c158p96sn49g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT9jDxQwo5FbD45iU6aNmzVLc-eIIa6e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426423521136-3fpaj6id666htumc9t5c158p96sn49g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

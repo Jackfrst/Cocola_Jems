@@ -28,16 +28,16 @@ The James Webb Space Telescope is a joint project of NASA, the European Space Ag
     <th>Game Page</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/Jackfrst/Cocola_Jems/assets/60434580/3993c3b2-acad-4974-8864-4b837ade3a38" width="350"></td>
-    <td><img src="https://github.com/Jackfrst/Cocola_Jems/assets/60434580/c84e8b2e-6804-4a79-90ec-2a01a4edb507" width="350"></td>
+    <td align="center"><img src="https://github.com/Jackfrst/Cocola_Jems/assets/60434580/3993c3b2-acad-4974-8864-4b837ade3a38" width="350"></td>
+    <td align="center"><img src="https://github.com/Jackfrst/Cocola_Jems/assets/60434580/c84e8b2e-6804-4a79-90ec-2a01a4edb507" width="350"></td>
   </tr>
   <tr>
     <th>NASA Page</th>
     <th>QUIZ Page</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/Jackfrst/Cocola_Jems/assets/60434580/9d522205-aaf3-4a9b-a69f-6fb49aeca749" width="350"></td>
-    <td><img src="https://github.com/Jackfrst/Cocola_Jems/assets/60434580/ea2c6745-dac4-4cbb-b4e1-61f5c271539f" width="350"></td>
+    <td align="center"><img src="https://github.com/Jackfrst/Cocola_Jems/assets/60434580/9d522205-aaf3-4a9b-a69f-6fb49aeca749" width="350"></td>
+    <td align="center"><img src="https://github.com/Jackfrst/Cocola_Jems/assets/60434580/ea2c6745-dac4-4cbb-b4e1-61f5c271539f" width="350"></td>
   </tr>
   
   <tr>

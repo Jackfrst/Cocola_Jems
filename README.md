@@ -1,5 +1,5 @@
 # COCOLA JEMS
-<img src="https://github.com/Jackfrst/Cocola_Jems/assets/60434580/5338ef0f-b80b-4e73-9c8b-02eb0ebffb6c">
+<img src="https://user-images.githubusercontent.com/62181222/241915406-26eeb1b1-3390-4a68-b209-967058c77cfe.png">
 
 The "Cocola Jems" app is a comprehensive and educational mobile application built using Flutter. It was developed within a tight timeframe of 28 hours during the NASA Space Apps Challenge Bangladesh Hackathon. The app aims to provide users with a brief but informative overview of the James Webb Space Telescope (JWST).
 
